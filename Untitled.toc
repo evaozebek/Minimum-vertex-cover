@@ -1,0 +1,11 @@
+\babel@toc {slovene}{}
+\contentsline {section}{\tocsection {}{1}{Navodilo}}{3}{section.1}
+\contentsline {section}{\tocsection {}{2}{Uvod}}{4}{section.2}
+\contentsline {section}{\tocsection {}{3}{Opis dela}}{8}{section.3}
+\contentsline {subsection}{\tocsubsection {}{3.1}{Generiranje grafov}}{8}{subsection.3.1}
+\contentsline {subsection}{\tocsubsection {}{3.2}{Po\IeC {\v z}re\IeC {\v s}ni algoritem}}{9}{subsection.3.2}
+\contentsline {subsection}{\tocsubsection {}{3.3}{Celo\IeC {\v s}tevilski linearni program}}{9}{subsection.3.3}
+\contentsline {subsection}{\tocsubsection {}{3.4}{Relaksacija celo\IeC {\v s}tevilskega na linearni program}}{10}{subsection.3.4}
+\contentsline {subsection}{\tocsubsection {}{3.5}{Rezultati}}{11}{subsection.3.5}
+\contentsline {section}{\tocsection {}{4}{Zaklju\IeC {\v c}ek}}{12}{section.4}
+\contentsline {section}{\tocsection {}{}{Literatura}}{13}{section*.14}
